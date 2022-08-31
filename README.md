@@ -15,3 +15,36 @@ XAMPP v3.2.4
 
 menggunakan jquery,ajax
 menggunakan bootstrap 4 css
+
+# Quick flow of the App
+
+first user greeted with thread page where user can choose a topic and to read a thread user must sign up
+![image](https://user-images.githubusercontent.com/71873035/187727680-7ed3959e-ce5b-42a7-92f4-8d9e7127791b.png)
+
+after signup user has to validate there email and then do a login
+![image](https://user-images.githubusercontent.com/71873035/187727839-e1fb23ef-7276-49d1-a228-97e022b90e7d.png)
+
+after creating account user will be greeted, they will pick a topic and then the thread they want to read where the thread will be dynamicly loaded under the menu
+![image](https://user-images.githubusercontent.com/71873035/187727909-c6f0ad6b-dede-4b81-bfc2-ef63c104c08b.png)
+
+user can give a heart,read,reply a thread if user a mod/admin they can report a thread or even close a thread that is reported from other mod
+![image](https://user-images.githubusercontent.com/71873035/187727993-c6accb16-7b5d-4303-8f6d-4a2940b7476b.png)
+![image](https://user-images.githubusercontent.com/71873035/187728537-1d461dfa-ebcf-46bd-a0b6-e42249eabbf2.png)
+![image](https://user-images.githubusercontent.com/71873035/187728565-bc23dcba-73f5-433a-8d43-146057428067.png)
+
+user can also edit/delete their reply
+![image](https://user-images.githubusercontent.com/71873035/187728604-01bc6893-59f0-4687-901f-990894dd5776.png)
+![image](https://user-images.githubusercontent.com/71873035/187729080-b9ffb18f-bc9a-4005-b38b-2e9692ed51dd.png)
+
+user can also create their own thread based on topic they choose
+![image](https://user-images.githubusercontent.com/71873035/187728676-ec9d4a20-dcdc-40f7-81be-f72ab53153d6.png)
+![image](https://user-images.githubusercontent.com/71873035/187728762-2cb7ebd9-d409-48e4-9224-f77ed1689676.png)
+![image](https://user-images.githubusercontent.com/71873035/187728786-f1347529-7440-423e-80eb-4057fa61c805.png)
+
+user can also check their profile which includes some the user data activity where the user can click of a thread/comment they recently posted and will be taken to the section
+![image](https://user-images.githubusercontent.com/71873035/187728936-9f2ff3ce-0664-421f-b520-a7dc22cbd06b.png)
+
+
+
+
+
