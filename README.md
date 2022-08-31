@@ -94,8 +94,7 @@ mysql  Ver 15.1 Distrib 10.4.13-MariaDB
 web server
 XAMPP v3.2.4
 
-menggunakan jquery,ajax
-menggunakan bootstrap 4 css
+library used includes jquery, ajax, bootstrap 4 css
 
 
 
