@@ -54,9 +54,12 @@ user can also reply,report,edit/delete their reply
 
 user can also create their own thread based on topic they choose
 
+![image](https://user-images.githubusercontent.com/71873035/187728676-ec9d4a20-dcdc-40f7-81be-f72ab53153d6.png)
+
+after created :
+
 
 ![image](https://user-images.githubusercontent.com/71873035/187728762-2cb7ebd9-d409-48e4-9224-f77ed1689676.png)
-![image](https://user-images.githubusercontent.com/71873035/187728676-ec9d4a20-dcdc-40f7-81be-f72ab53153d6.png)
 ![image](https://user-images.githubusercontent.com/71873035/187728786-f1347529-7440-423e-80eb-4057fa61c805.png)
 
 
