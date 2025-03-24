@@ -75,10 +75,6 @@ user can also check their profile which includes some the user data activity whe
 
 
 
-quick Entity Relation Skema more detail can be seen in the query script
-![image](https://user-images.githubusercontent.com/71873035/187731311-81f7d505-c133-43e3-9bd3-b1f2e3857519.png)
-
-
 Document structure consist of .php files 
 where handler handles functionality and non-handler usually includes front page.
 databaseHandler.php handles all things database related
